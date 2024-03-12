@@ -1,0 +1,22 @@
+GUI_VIEW:
+  TITLE: "&0Inventory: %player_name%"
+  CONTENT:
+    'DECORATE':
+      DISPLAY_NAME: " "
+      LORE: []
+      MATERIAL: BLACK_STAINED_GLASS_PANE
+      SLOTS: [0, 1, 7, 8]
+
+MESSAGES:
+  USAGE:
+    - " "
+    - "  &7Usage: &6/invsee &7[&6Player&7]"
+    - " "
+  PLAYER_NOT_ONLINE:
+    - " "
+    - "  &7This player is offline"
+    - " "
+  NOT_PERMS:
+    - " "
+    - "  &cYou have no rights"
+    - " "
