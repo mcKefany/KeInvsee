@@ -1,0 +1,12 @@
+main: dev.kefany.Main
+prefix: KeInvsee
+name: KeInvsee
+
+author: kefany
+
+version: '1.0-SNAPSHOT'
+api-version: '1.16'
+
+commands:
+  invsee:
+    usage: /<command> <player>
